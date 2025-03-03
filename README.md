@@ -12,6 +12,9 @@ A simple console-based ATM system that provides essential banking functionalitie
 
 •  Pin Reset – Provides users with an option to reset their existing PIN.
 
+# Technologies Used
+• Programming Language: Python
+
 
 
 
